@@ -1,0 +1,14 @@
+.p1
+{
+    width: 100px;
+    height: 100px;
+    background: aqua;
+    /*position: absolute;
+    top:150px;right left top bottom
+    left: 150px;*/
+    margin-left: 100px;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    border: solid 5px black;
+}
